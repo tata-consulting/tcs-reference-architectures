@@ -1,2 +1,2 @@
 # tcs-reference-architectures
-Reference architectures and implementation guides from TATA Consulting Services
+Reference architectures and implementation guides for TCS Labs
